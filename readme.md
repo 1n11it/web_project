@@ -16,7 +16,7 @@ These projects showcase various web development skills and practical implementat
    - A sleek and modern restaurant website built with HTML and CSS. This site offers an inviting and professional appearance with subtle animations to enhance the user experience while maintaining a modern aesthetic.
 
 4. Yatra
-   - A web project presenting [brief description of Yatra]
+   - Yatra is an engaging travel website featuring a dynamic homepage with parallax mountains and smooth animations. It includes an interactive "Explore" page for discovering destinations and a "Signup" page for registration. Built with HTML, CSS, and JavaScript, it offers a modern and immersive user experience.
 
 ## Repository Structure
 ```
