@@ -41,7 +41,6 @@ web_project/
 - HTML
 - CSS
 - JavaScript
-- [Any other technologies or frameworks used across projects]
 
 ## Deployment
 All projects in this repository are hosted on Netlify. You can view the live versions at the following URLs:
