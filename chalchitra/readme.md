@@ -42,4 +42,4 @@ You can view the live version of Chalchitra here: [Chalchitra](https://chalchitr
 This is a personal project, but suggestions and feedback are welcome. Feel free to open an issue if you have ideas for improvements or encounter any bugs.
 
 ## Contact
-Project Link: [https://github.com/1n11it/web_project/tree/main/chalchitra](https://github.com/1n11it/web_project/tree/main/chalchitra)
+For more information or queries, please visit the [repository](https://github.com/1n11it/web_project/tree/main/chalchitra).
