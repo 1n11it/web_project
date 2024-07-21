@@ -50,4 +50,4 @@ You can view the live version of Restaurant here: [Restaurant](https://restauran
 
 ## Contact
 
-For more information or queries, please visit the [repository](https://github.com/1n11it/web_project/tree/main/restaurant).
+For more information or queries, please visit the [repository](https://github.com/1n11it/web_project).
