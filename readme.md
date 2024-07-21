@@ -66,4 +66,4 @@ To explore these projects locally:
 These are personal projects, but suggestions and feedback are welcome. Feel free to open an issue if you have ideas for improvements or encounter any bugs.
 
 ## Contact
-Email: [xalpha369@gmail.com]
+For more information or queries, please email me at: [xalpha369@gmail.com](mailto:xalpha369@gmail.com)
