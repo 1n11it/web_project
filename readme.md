@@ -45,10 +45,10 @@ web_project/
 
 ## Deployment
 All projects in this repository are hosted on Netlify. You can view the live versions at the following URLs:
-- Chalhitra: [Netlify URL for Chalhitra](https://chalchitra-369.netlify.app)
-- Minimalist: [Netlify URL for Minimalist](https://minimalist-369.netlify.app)
-- Restaurant: [Netlify URL for Restaurant](https://restaurant-369.netlify.app)
-- Yatra: [Netlify URL for Yatra](https://yatra-369.netlify.app)
+- Chalhitra: [Chalhitra](https://chalchitra-369.netlify.app)
+- Minimalist: [Minimalist](https://minimalist-369.netlify.app)
+- Restaurant: [Restaurant](https://restaurant-369.netlify.app)
+- Yatra: [Yatra](https://yatra-369.netlify.app)
 
 ## Getting Started
 To explore these projects locally:
