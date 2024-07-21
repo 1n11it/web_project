@@ -1,15 +1,53 @@
-# Restaurant
-## restaurant website
+# Restaurant Website
 
-A restaurant website using HTML and CSS, aiming for a professional and attractive appearance. 
-With six main options - home, about, category, menu, review, and contact.
-In terms of design, the website boasts a sleek and modern aesthetic, 
-complemented by subtle animations to add personality without overwhelming the user experience.
-The "home" sets the stage with an inviting layout, incorporating subtle animations to enhance user engagement. 
-The "about" section tells the restaurant's story, while "category" and "menu" display dishes attractively. 
-"Review" gathers customer feedback, and "contact" provides essential information for inquiries.
-In essence, the restaurant website I crafted serves as a digital ambassador, 
-enticing visitors with its captivating design and intuitive functionality while 
-showcasing the restaurant's unique offerings and inviting them to embark on a culinary journey.
+## Description
 
-[website](https://restaurant-369.netlify.app/)
+A sleek and modern restaurant website built with HTML and CSS. This site offers an inviting and professional appearance with the following sections:
+
+- **Home:** Engaging introductory layout with subtle animations.
+- **About:** Tells the restaurant's story.
+- **Category:** Displays various food categories attractively.
+- **Menu:** Showcases detailed menu offerings.
+- **Review:** Gathers and displays customer feedback.
+- **Contact:** Provides essential contact information and a form for inquiries.
+
+The design includes a professional look with subtle animations to enhance the user experience while maintaining a modern aesthetic.
+
+## Features
+
+- Responsive design for both desktop and mobile views.
+- Smooth animations for a dynamic user experience.
+- Customizable sections for easy updates.
+
+## Getting Started
+
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/1n11it/web_project.git
+   ```
+
+2. **Navigate to the Project Directory:**
+   ```bash
+   cd web_project
+   ```
+
+3. **Open the `index.html` File in a Web Browser:**
+   Double-click on `index.html` or open it with your preferred code editor to view the website.
+
+## Technologies Used
+
+- HTML
+- CSS
+- Javascript
+
+## Contributing
+
+This is a personal project, but suggestions and feedback are welcome. Feel free to open an issue if you have ideas for improvements or encounter any bugs.
+
+## Live Demo
+
+You can view the live version of Restaurant here: [Restaurant](https://restaurant-369.netlify.app/)
+
+## Contact
+
+For more information or queries, please visit the [repository](https://github.com/1n11it/web_project/tree/main/restaurant).
