@@ -1,7 +1,8 @@
 # Web Project Repository
 
 ## Description
-This repository contains four web development projects, each demonstrating different concepts and applications in web technology. These projects showcase various web development skills and practical implementations.
+This repository contains four web development projects, each demonstrating different concepts and applications in web technology. 
+These projects showcase various web development skills and practical implementations.
 
 ## Projects
 
