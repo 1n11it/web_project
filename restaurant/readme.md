@@ -40,13 +40,24 @@ The design includes a professional look with subtle animations to enhance the us
 - CSS
 - Javascript
 
-## Contributing
-
-This is a personal project, but suggestions and feedback are welcome. Feel free to open an issue if you have ideas for improvements or encounter any bugs.
+## Installation and Setup
+1. Clone the repository:
+   ```
+   git clone https://github.com/1n11it/web_project.git
+   ```
+2. Navigate to the Restaurant project directory:
+   ```
+   cd web_project/restaurant
+   ```
+3. Open `index.html` in your preferred web browser to view the project locally.
 
 ## Live Demo
 
 You can view the live version of Restaurant here: [Restaurant](https://restaurant-369.netlify.app/)
+
+## Contributing
+
+This is a personal project, but suggestions and feedback are welcome. Feel free to open an issue if you have ideas for improvements or encounter any bugs.
 
 ## Contact
 
