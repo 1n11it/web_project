@@ -100,7 +100,7 @@ To view or customize the project, follow these steps:
    ```
 2. Navigate to the Minimalist Showcase project directory:
    ```bash
-   cd web_project/minimalist_showcase
+   cd web_project/minimalist
    ```
 3. Open `index.html` in your preferred web browser to view the project locally.
 
