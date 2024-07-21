@@ -19,21 +19,6 @@ The design includes a professional look with subtle animations to enhance the us
 - Smooth animations for a dynamic user experience.
 - Customizable sections for easy updates.
 
-## Getting Started
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/1n11it/web_project.git
-   ```
-
-2. **Navigate to the Project Directory:**
-   ```bash
-   cd web_project
-   ```
-
-3. **Open the `index.html` File in a Web Browser:**
-   Double-click on `index.html` or open it with your preferred code editor to view the website.
-
 ## Technologies Used
 
 - HTML
@@ -41,15 +26,19 @@ The design includes a professional look with subtle animations to enhance the us
 - Javascript
 
 ## Installation and Setup
-1. Clone the repository:
-   ```
+
+1. Clone the Repository:
+   ```bash
    git clone https://github.com/1n11it/web_project.git
    ```
-2. Navigate to the Restaurant project directory:
+
+2. Navigate to the Project Directory:
+   ```bash
+   cd web_project
    ```
-   cd web_project/restaurant
-   ```
-3. Open `index.html` in your preferred web browser to view the project locally.
+
+3. **Open the `index.html` File in a Web Browser:**
+   Double-click on `index.html` or open it with your preferred code editor to view the website.
 
 ## Live Demo
 
