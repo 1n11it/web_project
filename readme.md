@@ -6,7 +6,7 @@ This repository contains four web development projects, each demonstrating diffe
 ## Projects
 
 1. Chalhitra
-   - A web project showcasing [brief description of Chalhitra]
+   - Chalchitra is an immersive movie overview website that captivates visitors with its dynamic and visually striking design. The site showcases a diverse array of films through an innovative image slider, creating an engaging and fluid browsing experience.
 
 2. Minimalist
    - A web project demonstrating [brief description of Minimalist]
