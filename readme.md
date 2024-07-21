@@ -13,7 +13,7 @@ These projects showcase various web development skills and practical implementat
    - Minimalist is a sleek platform designed to highlight products or services in a clean and elegant manner. This project utilizes HTML, CSS, and JavaScript libraries to deliver a modern and professional design, complete with interactive features and smooth animations.
 
 3. Restaurant
-   - A web project featuring [brief description of Restaurant]
+   - A sleek and modern restaurant website built with HTML and CSS. This site offers an inviting and professional appearance with subtle animations to enhance the user experience while maintaining a modern aesthetic.
 
 4. Yatra
    - A web project presenting [brief description of Yatra]
@@ -66,4 +66,4 @@ To explore these projects locally:
 These are personal projects, but suggestions and feedback are welcome. Feel free to open an issue if you have ideas for improvements or encounter any bugs.
 
 ## Contact
-For more information or queries, please visit the [repository](https://github.com/1n11it/web_project).
+Email: xalpha369@gmail.com
