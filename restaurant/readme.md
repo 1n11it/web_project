@@ -12,4 +12,4 @@ In essence, the restaurant website I crafted serves as a digital ambassador,
 enticing visitors with its captivating design and intuitive functionality while 
 showcasing the restaurant's unique offerings and inviting them to embark on a culinary journey.
 
-[webiste](https://restaurant-369.netlify.app/)
+[website](https://restaurant-369.netlify.app/)
