@@ -1,0 +1,263 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;700&display=swap');
+*, *::after, *::before{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }  
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+body::-webkit-scrollbar {
+    display: none;
+}
+html{
+  font-size: 62.5%;
+}
+::selection{
+  background-color: #0b372dbb;
+}
+input, textarea {
+    font-family: 'Montserrat', sans-serif;
+}
+.logo a{
+    text-decoration: none;
+    color:#1a5a48bb;
+    padding: 1.2rem;
+    font-size: 2rem;
+    font-weight: 800;
+}
+header{
+    width: 100%;
+    padding: 1rem 6rem;
+    background: rgb(243, 243, 243);
+    border-bottom: 1px solid rgba(255, 255, 255, .1);
+}
+header nav{
+    max-width: 1440px;
+    margin: 0 auto;
+    padding: 1.2rem 5rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+header ul{
+    display: flex;
+    list-style: none;
+    align-items: center;
+}
+header ul a{
+    text-decoration: none;
+    text-transform: uppercase;
+    color:#1a5a48bb;
+    padding: 1.5rem;
+    font-size: 1.4rem;
+    font-weight: 600;
+}
+.logo a:hover, header nav ul a:hover {
+    color: #fff;
+    transition: color 0.3s ease;
+}
+.search a{
+    font-size: 1.5rem;
+    padding: 0 1.8rem;
+}
+.hamburger{
+    padding-left: .9rem;
+}
+.hamburger a{
+    padding: 0;
+    width: 37px;
+    height: 37px;
+    display: flex;
+    border-radius: 50%;
+    background-color: rgba(115, 115, 115, .3);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    justify-content: center;
+    align-items: center; 
+}
+.container{
+    max-width: 1200px;
+    width: 90%;
+    margin: auto;
+}
+.btn{
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    padding: 0.6em 1.5em;
+    margin: 0.3em 0;
+    border-radius: 10em;
+    border: 0.3rem outset #ACB992; 
+    cursor: pointer;
+} 
+.btn-prime{
+    color:#E9E5D6 ;
+    background:#1a5a48bb;
+
+}
+.btn:hover {
+    background-color:  #134836bb;
+    border-color: #8F9C73; 
+}
+#contact{
+    padding: 5rem 0;
+    background: rgb(226,226,226);
+}
+.contact-container{
+    display: flex;
+    background: #fff;
+}
+.contact-img{
+    width: 50%;
+    padding: 2.4rem 0 2.4rem 6px;
+}
+.contact-img img{
+    display: block;
+    height: 400px;
+    object-fit: cover;
+    object-position: center;
+    width: 100%;
+}
+.form-container h2{
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 1.8rem;
+    margin-bottom: 1rem;
+    color: #464E2E;
+}
+.form-container h2:hover{
+  color:  #134836bb;
+}
+.form-container{
+    padding: 1rem;
+    width: 50%;
+    margin: auto;
+}
+::placeholder{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+}
+.form-container input, .form-container textarea{
+    display: block;
+    width: 100%;
+    border: none;
+    border-bottom: 2px solid #ddd;
+    padding: 1rem 0; 
+    box-shadow: none;
+    outline: none;
+    margin-bottom: 1rem;
+    counter-reset: #606060;
+    font-weight: 500;
+}
+.form-container a{
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+}
+.password-container {
+  position: relative;
+}
+.password-toggle {
+  position: absolute;
+  right: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  border: none;
+  background: none;
+  cursor: pointer;
+  padding: 0.6em 1em;
+  color: #827e7e;
+}
+.password-toggle:hover {
+  color: #134836bb;
+}
+#footer{
+    color: #ddd;
+    padding: 3rem 3em;
+    text-align: center;
+  }
+  #footer p{
+    font-weight: 700;
+    font-size: 1.2rem;
+    text-transform: capitalize;
+    color: #464E2E;
+  }
+  .social-box a{
+    margin: 0.3rem;
+    font-size: 1.2rem;
+  }
+  .s-btn{ 
+    color: #fff;
+    padding: 0.6em 1.5em;
+    margin: 0.5em 0;
+    cursor: pointer;
+    border-radius: 10em;
+  } 
+  .fb{
+    background-color: #3b5998;
+  }
+  .twt{
+    background-color: #333333;
+  }
+  .tgm{
+    background-color: #0088cc;
+  }
+  .insta{
+    background-color: #d74a80;
+  }
+  .l-in{
+    background-color: #0082ca;
+  }
+  .ptrt{
+    background-color: #c61118;
+  }
+  .yt{
+    background-color: #cd1a1a;
+  }
+  .dcd{
+    background-color: #5865F2;
+  }
+  .rdt{
+    background-color: #ff4500;
+  }
+
+@media (max-width: 768px){
+html{
+  font-size: 66%;
+}
+
+}
+@media (max-width:500px){
+html{
+  font-size: 50%;
+}
+.form-container{
+  width: 90%;
+}
+.contact-container{
+  display: flex;
+  flex-direction: column;
+}
+.contact-img{
+  width: 90%;
+  margin: 1rem auto;
+}
+header nav{
+  padding: 1.2rem 1.8rem;
+}
+.hide{
+  padding: 6px 24px;
+}
+.logo a{
+  padding: .4rem;
+  font-size: 1.6rem;
+}
+}
+
+@media (orientation:landscape) and (max-height:500px){
+.showcase-area{
+  height: 90vh;
+}
+}

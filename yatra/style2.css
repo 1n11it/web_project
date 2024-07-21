@@ -1,0 +1,175 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@font-face {
+    font-family: 'Kojiro';
+    src: url('font/kojiro.ttf') format('ttf');
+    font-weight: bold;
+    font-style: normal;
+}
+*, *::before, *::after{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+::selection{
+    background-color: #0b372dbb;
+}
+html, body{
+    width: 100%;
+    height: 100%;
+}
+body::-webkit-scrollbar {
+    display: none;
+}
+.logo a{
+    text-decoration: none;
+    color:#fff;
+    font-size: 2rem;
+    font-weight: 500;
+}
+#main{
+    width: 100%;
+    height: 100vh;
+}
+#back{
+    width: 100%;
+    height: 100vh;
+}
+#back img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+#top{
+    pointer-events: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+}
+#work-area{
+    position: relative;
+    margin: 0 auto;
+    width: 80%;
+    height: 100vh;
+    max-width: 1920px;
+}
+#nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    padding: 2rem 0;
+}
+#n-left, #n-right{
+    display: flex;
+    align-items: center;
+    gap: 39px;
+}
+#nav a {
+    pointer-events: all;
+    position: relative;
+    color: #fff;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+    font-size: 12.6px;
+    transition: color 0.3s; 
+}
+#nav a:hover{
+    color:#1a5a48bb;
+    transition: color 0.3s ease;
+}
+#hero{
+    margin-top: 20px;
+    position: absolute;
+    top: 50%;
+    left: 0;
+    transform: translate(0, -50%);
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+#hero-left{
+    min-width: 50%;
+}
+#hero-left .elem{
+    position: relative;
+    height: 9vw;
+    overflow: hidden;
+}
+#hero-left .elem h1:nth-child(1){
+    top: 0;
+}
+#hero-left .elem h1{
+    position: absolute;
+    top: 100%;
+    left: 0;
+    line-height: .9;
+    font-family: 'Kajiro', Arial, sans-serif;
+    font-weight: 100;
+    color: #fff;
+    font-size: 11vw;
+}
+#hero-right{
+    width: 18%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+#hero-right p{
+    text-align: right;
+    font-family: "Montserrat", sans-serif;
+    font-size: 9.6px;
+    color: #fff;
+    font-weight: 600;
+    margin: 15px 0;
+}
+#hero-right p:nth-child(3){
+    margin-bottom: 86px;
+}
+
+@media (max-width: 412px) {
+    #back img{
+    background-position: center;
+    }
+    #hero {
+    flex-direction: column-reverse;
+    align-items: center;
+    }
+    #hero-left, #hero-right {
+    min-width: 100%;
+    }
+    #hero-left .elem h1 {
+    padding-left: 6rem;
+    font-size: 12vw;
+    text-align: center;
+    }
+    #hero-right .p-text{
+    display: none;
+    }
+    #nav{
+    pointer-events: auto;
+    }
+  }
+  @media (min-width: 413px) and (max-width: 725px) {
+    #hero-left .elem h1 {
+    font-size: 6vw;
+    }
+    #hero-right .p-text{
+    display: none;
+    }
+  }
+  @media (min-width: 725px) and (max-width: 1024px) {
+    #hero-right .p-text{
+    display: none;
+    }
+    #hero{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    padding: 1.6rem 0;
+    }
+  }
