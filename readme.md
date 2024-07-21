@@ -66,4 +66,4 @@ To explore these projects locally:
 These are personal projects, but suggestions and feedback are welcome. Feel free to open an issue if you have ideas for improvements or encounter any bugs.
 
 ## Contact
-Project Link: [https://github.com/1n11it/web_project](https://github.com/1n11it/web_project)
+For more information or queries, please visit the repository at [GitHub](https://github.com/1n11it/web_project) Repository.
