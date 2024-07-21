@@ -10,7 +10,7 @@ These projects showcase various web development skills and practical implementat
    - Chalchitra is an immersive movie overview website that captivates visitors with its dynamic and visually striking design. The site showcases a diverse array of films through an innovative image slider, creating an engaging and fluid browsing experience.
 
 2. Minimalist
-   - A web project demonstrating [brief description of Minimalist]
+   - Minimalist is a sleek platform designed to highlight products or services in a clean and elegant manner. This project utilizes HTML, CSS, and JavaScript libraries to deliver a modern and professional design, complete with interactive features and smooth animations.
 
 3. Restaurant
    - A web project featuring [brief description of Restaurant]
