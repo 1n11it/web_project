@@ -1,7 +1,7 @@
 # Web Project Repository
 
 ## Description
-This repository contains four web development projects, each demonstrating different concepts and applications in web technology. 
+This repository contains five web development projects, each demonstrating different concepts and applications in web technology. 
 These projects showcase various web development skills and practical implementations.
 
 ## Projects
@@ -18,6 +18,9 @@ These projects showcase various web development skills and practical implementat
 4. Yatra
    - Yatra is an engaging travel website featuring a dynamic homepage with parallax mountains and smooth animations. It includes an interactive "Explore" page for discovering destinations and a "Signup" page for registration. Built with HTML, CSS, and JavaScript, it offers a modern and immersive user experience.
 
+5. Chikitsa
+   - Chikitsa is an AI-powered health advisory platform that provides preliminary health guidance through a chatbot. It helps users understand potential health concerns and offers interactive insights. The chatbot, powered by the Claude 3.5 Sonnet model via Chatbase, provides real-time responses based on a curated health-related knowledge base.
+
 ## Repository Structure
 ```
 web_project/
@@ -33,6 +36,9 @@ web_project/
 │
 ├── yatra/
 │   └── (project files)
+|
+├── chikitsa/
+│   └── (project files)
 │
 └── README.md
 ```
@@ -41,6 +47,8 @@ web_project/
 - HTML
 - CSS
 - JavaScript
+- Flask 
+- SQLite 
 
 ## Deployment
 All projects in this repository are hosted on Netlify. You can view the live versions at the following URLs:
@@ -48,6 +56,7 @@ All projects in this repository are hosted on Netlify. You can view the live ver
 - Minimalist: [Minimalist](https://minimalist-369.netlify.app)
 - Restaurant: [Restaurant](https://restaurant-369.netlify.app)
 - Yatra: [Yatra](https://yatra-369.netlify.app)
+- Chikitsa: [Chikitsa](https://chikitsa-369.netlify.app)
 
 ## Getting Started
 To explore these projects locally:
