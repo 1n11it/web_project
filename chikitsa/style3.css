@@ -1,0 +1,130 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;700&display=swap');
+*, *::after, *::before{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }  
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+body::-webkit-scrollbar {
+    display: none;
+}
+html{
+  font-size: 62.5%;
+}
+::selection{
+  background-color: #363636;
+  color: #fff;
+}
+input, textarea {
+    font-family: 'Montserrat', sans-serif;
+}
+#nav{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  padding: 3px 0;
+}
+#nav img{
+  height: 60px;
+}
+#n-left, #n-right{
+  display: flex;
+  align-items: center;
+  gap: 39px;
+}
+#nav a {
+  pointer-events: all;
+  position: relative;
+  color: #000;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+  font-size: 12.6px;
+  transition: color 0.3s; 
+}
+#nav a::after {
+  content: ''; 
+  position: absolute; 
+  bottom: -3px; 
+  left: 50%; 
+  width: 0; 
+  height: 2px; 
+  background-color: #fff; 
+  transition: width 0.3s, left 0.3s;
+}
+#nav a:hover::after {
+  width: 100%; 
+  left: 0; 
+}
+#nav a:hover {
+  color: #ffffffe2; 
+}
+header{
+    width: 100%;
+    padding: 0 6rem;
+    background: #fff;
+    border-bottom: 1px solid rgba(255, 255, 255, .1);
+}
+.container{
+    max-width: 1200px;
+    width: 90%;
+    margin: auto;
+}
+.btn{
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    padding: 0.6em 1.5em;
+    margin: 0.3em 0;
+    border-radius: 10em;
+    border: 0.3rem outset #ACB992; 
+    cursor: pointer;
+} 
+.btn-prime{
+    color:#E9E5D6 ;
+    background:#1a5a48bb;
+
+}
+.btn:hover {
+    background-color:  #134836bb;
+    border-color: #8F9C73; 
+}
+#contact{
+    padding: 5rem 0;
+    background: rgb(226,226,226);
+}
+.contact-container{
+    display: flex;
+    background: #fff;
+}
+.contact-img{
+    width: 50%;
+    padding: 2.4rem 0 2.4rem 6px;
+}
+.contact-img img{
+    display: block;
+    height: 600px;
+    object-fit: cover;
+    object-position: center;
+    width: 100%;
+}
+.form-container{
+    padding: 1rem;
+    width: 50%;
+    margin: auto;
+}
+#footer{
+  padding: 1.2rem 0;
+}
+#footer p{
+    text-align: center;
+    font-weight: 700;
+    font-size: 1.2rem;
+    text-transform: capitalize;
+    color: #000;
+  }
