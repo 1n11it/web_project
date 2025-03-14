@@ -6,7 +6,7 @@ These projects showcase various web development skills and practical implementat
 
 ## Projects
 
-1. Chalhitra
+1. Chalchitra
    - Chalchitra is an immersive movie overview website that captivates visitors with its dynamic and visually striking design. The site showcases a diverse array of films through an innovative image slider, creating an engaging and fluid browsing experience.
 
 2. Minimalist
@@ -25,7 +25,7 @@ These projects showcase various web development skills and practical implementat
 ```
 web_project/
 │
-├── chalhitra/
+├── chalchitra/
 │   └── (project files)
 │
 ├── minimalist/
